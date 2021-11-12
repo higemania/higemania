@@ -3,18 +3,15 @@
 * Born in 1981
 * Language
   1. Backend
-     * Java(~version 8, Spring, SPring boot, )
+     * Java(~version 8, Spring, Spring boot, )
      * Node.js
   2. Frontend
      * JS(ES5~6, REACT)
-     * RCP(Java Swing Reach Client platform)
+     * RCP(Rich Client platform)
      * JSP
      * Thymleaf
      * Mustache
-     * Nexacro
-     * TrustForm
-     * Miplatform
-     * Xplatform
+     * Nexacro/TrustForm/Miplatform/Xplatform
      * Flex
   3. Database
      * Oracle
