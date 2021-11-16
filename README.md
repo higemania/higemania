@@ -17,6 +17,10 @@ Software Engineer
 ![react](https://user-images.githubusercontent.com/60690630/142000997-ca08133f-7710-4a31-90be-fce58fe88578.png)
 
 * Database
-(이미지 예정)     
+
+![IBM_DB2](https://user-images.githubusercontent.com/60690630/142002566-4678e3a9-ed05-4d6f-9bbb-421a56201f11.png)
+![MARIADB](https://user-images.githubusercontent.com/60690630/142002627-7a8a4fb5-5f21-4487-be50-f57b2b655d59.png)
+![PostgreSQL](https://user-images.githubusercontent.com/60690630/142002674-6a188d18-5b98-437f-b9e4-983af7433260.png)
+
 * Open Source
 (이미지 예정)
