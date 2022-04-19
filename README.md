@@ -3,22 +3,38 @@ ___
 Software Engineer
 <br>`수염난 초등학생을 이길 자는 없다..`
 
-* Backend
+* Projects
+- 2022.01 ~ 재직중     LG U+ HOMIN Platform 결제형 서비스 Full Stack 개발
+                       사용 기술 : Vue, Nuxt.js, ES6+, Axios, Spring Boot(MSA), MybatisMariaDB, Google Cloud Platform
+- 2021.01 ~ 2021.12    AIA 신계약 통신채널 판매 Intelligence Contract System(DMAPP) Full Stack 개발
+                       사용 기술 : Nexacro, JQuery, ES5, Proframe(Java), Oracle, Report Designer
+- 2019.12 ~ 2021.01    Dubai Port World 터미널 IOT 시스템 비지니스 파트 Full Stack 개발
+                       사용 기술 : React, ES5, JQuery, Axios, Spring Boot(MSA), JPA, PostgeSQL, Apache Kafka, ELK stack
+- 2016.12 ~ 2019.12    AIA 신계약 통신채널 판매 Intelligence Contract System(DMAPP) Full Stack 개발
+                       사용 기술 : Nexacro, JQuery, Proframe(Java), Oracle, Report Designer
+- 2016.01 ~ 2016.12    현대해상 감사 시스템 
+                       사용 기술 : Flex, Mybatis, Spring, Oracle
+- 2014.01 ~ 2016.01    CyberLogitec 터미널 운영 시스템 Full Stack 개발
+                       사용 기술 : RCP, Flex, Mybatis, JSP, Spring, Oracle, PL-SQL, PHP
+.
+.
+.
+
+
+* Skills
+1. Backend
 
 ![SpringBoot (1)](https://user-images.githubusercontent.com/60690630/142000011-b18534a0-184c-43b9-8ae2-1a9a94f4e6d8.png)
 ![spring (1)](https://user-images.githubusercontent.com/60690630/142001009-12217047-90b6-4052-9e30-73fb308a63b7.png)
 ![node_org22](https://user-images.githubusercontent.com/60690630/142858450-e3fd2466-1a78-462a-b44f-b133948a157d.png)
 
-
-* Frontend
+2. Front-end
 
 ![HTML5](https://user-images.githubusercontent.com/60690630/142001106-58bcdad2-86d9-46b5-8651-823cb1af7dfe.png)
 ![JS](https://user-images.githubusercontent.com/60690630/142001133-831ab49d-3f35-4162-80c3-36138db2cd49.png)
 ![react_org22](https://user-images.githubusercontent.com/60690630/142859240-ef67ea82-32fe-4d9b-b638-91b49c3612d3.png)
 
-
-
-* Database
+3. DBMS
 
 ![ORACLE22](https://user-images.githubusercontent.com/60690630/142860601-72c667ea-2a5f-495b-95b3-dc6644a76b83.png)
 ![IBM_DB2](https://user-images.githubusercontent.com/60690630/142002566-4678e3a9-ed05-4d6f-9bbb-421a56201f11.png)
