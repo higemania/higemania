@@ -11,13 +11,13 @@
 - 2019.12 ~ 2021.01    Dubai Port World 터미널 IOT 시스템 비지니스 파트 Full Stack 개발   
                        사용 기술 : React, ES5, JQuery, Axios, Spring Boot(MSA), JPA, PostgeSQL, Apache Kafka, ELK stack
 <hr/>                       
-- 2016.12 ~ 2019.12    AIA 신계약 통신채널 판매 Intelligence Contract System(DMAPP) Full Stack 개발   
+- 2016.12 ~ 2019.12    AIA 신계약 통신채널 판매 Intelligence Contract System(DMAPP) Full Stack 개발    
                        사용 기술 : Nexacro, JQuery, Proframe(Java), Oracle, Report Designer
 <hr/>
-- 2016.01 ~ 2016.12    현대해상 감사 시스템   
+- 2016.01 ~ 2016.12    현대해상 감사 시스템    
                        사용 기술 : Flex, Mybatis, Spring, Oracle
 <hr/>
-- 2014.01 ~ 2016.01    CyberLogitec 터미널 운영 시스템 Full Stack 개발   
+- 2014.01 ~ 2016.01    CyberLogitec 터미널 운영 시스템 Full Stack 개발    
                        사용 기술 : RCP, Flex, Mybatis, JSP, Spring, Oracle, PL-SQL, PHP
 <hr/>
 .
