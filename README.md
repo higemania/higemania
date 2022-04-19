@@ -1,21 +1,25 @@
-### YoungKiJeon|전영기(higemania)
-___
-Software Engineer
-<br>`수염난 초등학생을 이길 자는 없다..`
+### Software Engineer|YoungKiJeon(전영기)
+
 
 * Projects
-- 2022.01 ~ 재직중     LG U+ HOMIN Platform 결제형 서비스 Full Stack 개발
+- 2022.01 ~ 재직중     LG U+ HOMIN Platform 결제형 서비스 Full Stack 개발<br />
                        사용 기술 : Vue, Nuxt.js, ES6+, Axios, Spring Boot(MSA), MybatisMariaDB, Google Cloud Platform
-- 2021.01 ~ 2021.12    AIA 신계약 통신채널 판매 Intelligence Contract System(DMAPP) Full Stack 개발
+<hr/>
+- 2021.01 ~ 2021.12    AIA 신계약 통신채널 판매 Intelligence Contract System(DMAPP) Full Stack 개발<br />
                        사용 기술 : Nexacro, JQuery, ES5, Proframe(Java), Oracle, Report Designer
-- 2019.12 ~ 2021.01    Dubai Port World 터미널 IOT 시스템 비지니스 파트 Full Stack 개발
+<hr/>
+- 2019.12 ~ 2021.01    Dubai Port World 터미널 IOT 시스템 비지니스 파트 Full Stack 개발<br />
                        사용 기술 : React, ES5, JQuery, Axios, Spring Boot(MSA), JPA, PostgeSQL, Apache Kafka, ELK stack
-- 2016.12 ~ 2019.12    AIA 신계약 통신채널 판매 Intelligence Contract System(DMAPP) Full Stack 개발
+<hr/>                       
+- 2016.12 ~ 2019.12    AIA 신계약 통신채널 판매 Intelligence Contract System(DMAPP) Full Stack 개발<br />
                        사용 기술 : Nexacro, JQuery, Proframe(Java), Oracle, Report Designer
-- 2016.01 ~ 2016.12    현대해상 감사 시스템 
+<hr/>
+- 2016.01 ~ 2016.12    현대해상 감사 시스템<br />
                        사용 기술 : Flex, Mybatis, Spring, Oracle
-- 2014.01 ~ 2016.01    CyberLogitec 터미널 운영 시스템 Full Stack 개발
+<hr/>
+- 2014.01 ~ 2016.01    CyberLogitec 터미널 운영 시스템 Full Stack 개발<br />
                        사용 기술 : RCP, Flex, Mybatis, JSP, Spring, Oracle, PL-SQL, PHP
+<hr/>
 .
 .
 .
