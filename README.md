@@ -2,18 +2,17 @@
 
 
 * Projects
-<hr/>
+---
   + 2022.01 ~ 재직중
     + LG U+ HOMIN Platform 결제형 서비스 Full Stack 개발   
       + 담담 업무 : 결제형 서비스 파트 화면 개발 및 API 개발 지원
       + 사용 기술 : Vue, Nuxt.js, ES6+, Axios, Spring Boot(MSA), MybatisMariaDB, Google Cloud Platform
       + 사용 Tool : VS Code, IntelliJ, Dbeaver
-    
-<hr/>
-- 2021.01 ~ 2021.12    AIA 신계약 통신채널 판매 Intelligence Contract System(DMAPP) Full Stack 개발   
+---
+2021.01 ~ 2021.12    AIA 신계약 통신채널 판매 Intelligence Contract System(DMAPP) Full Stack 개발   
                        사용 기술 : Nexacro, JQuery, ES5, Proframe(Java), Oracle, Report Designer
-<hr/>
-- 2019.12 ~ 2021.01    Dubai Port World 터미널 IOT 시스템 비지니스 파트 Full Stack 개발   
+---
+2019.12 ~ 2021.01    Dubai Port World 터미널 IOT 시스템 비지니스 파트 Full Stack 개발   
                        사용 기술 : React, ES5, JQuery, Axios, Spring Boot(MSA), JPA, PostgeSQL, Apache Kafka, ELK stack
 <hr/>                       
 - 2016.12 ~ 2019.12    AIA 신계약 통신채널 판매 Intelligence Contract System(DMAPP) Full Stack 개발    
