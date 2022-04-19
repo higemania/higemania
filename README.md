@@ -58,7 +58,8 @@ Skill Set
 ![HTML5](https://user-images.githubusercontent.com/60690630/142001106-58bcdad2-86d9-46b5-8651-823cb1af7dfe.png)
 ![JS](https://user-images.githubusercontent.com/60690630/142001133-831ab49d-3f35-4162-80c3-36138db2cd49.png)
 ![react_org22](https://user-images.githubusercontent.com/60690630/142859240-ef67ea82-32fe-4d9b-b638-91b49c3612d3.png)
-![image](https://user-images.githubusercontent.com/60690630/163954340-63fc2304-b3a0-405b-8612-1968dfd00ecb.png)
+![Vue](https://user-images.githubusercontent.com/60690630/163955085-0be4399e-532f-4346-b472-4b7135a73ed2.png)
+
 
 ---
 **DBMS**
